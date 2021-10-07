@@ -9,13 +9,5 @@
 * 迪米特法则（LoD，Law of Demeter）
 * 开放封闭原则（OCP，Open Close Principle）
 
-### [单例模式](DesignPattern/singleton.h)
-
-### [抽象工厂模式](DesignPattern/AbstractFactoryPattern)
-
-### [适配器模式](DesignPattern/AdapterPattern)
-
-### [桥接模式](DesignPattern/BridgePattern)
-
-### [观察者模式](DesignPattern/ObserverPattern)
+### [单例模式](Singleton/)
 
