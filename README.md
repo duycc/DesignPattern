@@ -1,13 +1,21 @@
-23种设计模式的C++实现，后续完善。
+# 设计模式
 
-### 设计模式的六大原则
+## 什么是设计模式
 
-* 单一职责原则（SRP，Single Responsibility Principle）
-* 里氏替换原则（LSP，Liskov Substitution Principle）
-* 依赖倒置原则（DIP，Dependence Inversion Principle）
-* 接口隔离原则（ISP，Interface Segregation Principle）
-* 迪米特法则（LoD，Law of Demeter）
-* 开放封闭原则（OCP，Open Close Principle）
+## 面向对象设计原则
 
-### [单例模式](Singleton/)
+## 创建型模式
 
+## 结构型模式
+
+### [Decorator | 装饰器](./Decorator/Decorator.md)
+
+### [Bridge | 桥接](./Bridge/Bridge.md)
+
+## 行为型模式
+
+### [TemplateMethod | 模板方法](./TemplateMethod/TemplateMethod.md)
+
+### [Strategy | 策略](./Strategy/Strategy.md)
+
+### [Observer | 观察者](./Observer/Oberver.md)
