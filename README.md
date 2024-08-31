@@ -129,7 +129,9 @@
 
 ## 创建型模式
 
-### [FactoryMethod | 工厂方法](./FactoryMethod/FactoryMethod.md)
+### [Factory Method | 工厂方法](./FactoryMethod/FactoryMethod.md)
+
+### [Abstract Factory | 抽象工厂](./AbstractFactory/AbstractFactory.md)
 
 ## 结构型模式
 
