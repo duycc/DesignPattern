@@ -133,6 +133,8 @@
 
 ### [Abstract Factory | 抽象工厂](./AbstractFactory/AbstractFactory.md)
 
+### [Prototype | 原型](./Prototype/Prototype.md)
+
 ## 结构型模式
 
 ### [Decorator | 装饰器](./Decorator/Decorator.md)
