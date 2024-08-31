@@ -135,6 +135,8 @@
 
 ### [Prototype | 原型](./Prototype/Prototype.md)
 
+### [Builder | 生成器](./Builder/Builder.md)
+
 ## 结构型模式
 
 ### [Decorator | 装饰器](./Decorator/Decorator.md)
